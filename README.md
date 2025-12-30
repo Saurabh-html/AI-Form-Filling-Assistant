@@ -49,16 +49,16 @@ An intelligent OCR-based system that extracts information from Indian identity d
 ## 🖼️ Screenshots
 
 ### Upload & OCR Extraction
-![OCR Output](assets/screenshots/ocr_output.png)
+![OCR Output](backend/assets/screenshots/ocr_output.png)
 
 ### Unified Extracted Data
-![Unified Data](assets/screenshots/unified_data.png)
+![Unified Data](backend/assets/screenshots/unified_data.png)
 
 ### Auto-Filled Form UI
-![Auto Filled UI](assets/screenshots/form_ui.png)
+![Auto Filled UI](backend/assets/screenshots/form_ui.png)
 
 ### Generated PDF
-![PDF Output](assets/screenshots/pdf_output.png)
+![PDF Output](backend/assets/screenshots/pdf_output.png)
 
 ---
 
