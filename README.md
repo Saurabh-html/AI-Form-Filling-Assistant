@@ -23,7 +23,7 @@ An intelligent OCR-based system that extracts information from Indian identity d
 
 ## 🏗️ System Architecture
 
-![System Architecture](assets/screenshots/methodology.png)
+![System Architecture](backend/assets/screenshots/methodology.png)
 
 ---
 
