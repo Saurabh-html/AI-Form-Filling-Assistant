@@ -1,0 +1,10 @@
+streamlit
+fastapi
+uvicorn
+pytesseract
+opencv-python
+pillow
+spacy
+regex
+pdfplumber
+reportlab
